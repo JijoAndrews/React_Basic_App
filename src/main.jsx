@@ -3,6 +3,7 @@ import { createRoot } from 'react-dom/client'
 
 import "bootstrap/dist/css/bootstrap.css";
 import "@fortawesome/react-fontawesome";
+import "@fortawesome/free-solid-svg-icons";
 
 import App from './App.jsx'
 import './index.css'
