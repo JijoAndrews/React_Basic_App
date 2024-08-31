@@ -2,3 +2,4 @@
 
 below shows the sample output of this task which is to creat cards in react in dynamic fashion.
 
+![alt text](image.png)
